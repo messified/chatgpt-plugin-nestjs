@@ -1,6 +1,6 @@
 # NestJS ChatGPT Plugin
 
-This is a NestJS plugin for interacting with the OpenAI ChatGPT API. The plugin allows you to easily integrate ChatGPT into your NestJS applications, providing AI-driven natural language understanding and generation capabilities.
+This is a ChatGPT plugin built with NestJS for interacting with the OpenAI ChatGPT API. The plugin allows you to easily integrate ChatGPT into your NestJS applications, providing AI-driven natural language understanding and generation capabilities.
 
 ## Features
 
